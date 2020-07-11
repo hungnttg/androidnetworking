@@ -1,0 +1,4 @@
+https://batdongsanabc.000webhostapp.com/lab14/sinhvien_GET.php
+https://batdongsanabc.000webhostapp.com/lab14/dientich_POST.php
+https://batdongsanabc.000webhostapp.com/lab14/giaiphuongtrinh_POST.php
+https://batdongsanabc.000webhostapp.com/lab14/rectangle_POST.php
