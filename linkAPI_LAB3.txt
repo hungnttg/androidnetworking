@@ -1,0 +1,12 @@
+lab2
+https://batdongsanabc.000webhostapp.com/lab14/sinhvien_GET.php
+https://batdongsanabc.000webhostapp.com/lab14/dientich_POST.php
+https://batdongsanabc.000webhostapp.com/lab14/giaiphuongtrinh_POST.php
+https://batdongsanabc.000webhostapp.com/lab14/rectangle_POST.php
+-----
+Lab3
+https://batdongsanabc.000webhostapp.com/mob403lab3/index.php
+https://batdongsanabc.000webhostapp.com/mob403lab3/json_data.json
+https://batdongsanabc.000webhostapp.com/mob403lab3/jsonandroid.html
+https://batdongsanabc.000webhostapp.com/mob403lab3/person_array.json
+https://batdongsanabc.000webhostapp.com/mob403lab3/person_object.json
