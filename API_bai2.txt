@@ -1,0 +1,2 @@
+https://batdongsanabc.000webhostapp.com/lab14/sinhvien_GET.php?name=nguyen&score=5
+https://batdongsanabc.000webhostapp.com/lab14/giaiphuongtrinh_POST.php
